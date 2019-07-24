@@ -1,0 +1,322 @@
+/*Header*/
+
+.header {
+	 position: fixed;
+	 display: block;
+	 top: 0;
+	 width: 100%;
+	 background: #fff;
+	 padding: 15px 0;
+	 z-index: 10;
+	 border-style: solid;
+   border-top-width: 1px;
+   border-bottom-width: 1px;
+   border-color: #c8c8c8;
+}
+
+.menu_header {
+	 text-align: right;
+}
+
+.menu_header ul li {
+	 display: inline;
+	 margin-left: 15px;
+}
+
+.menu_header ul li a {
+	 color: #000;
+	 letter-spacing: .1em;
+	 font-size: 14px;
+	 padding:10px 10px;
+}
+
+.menu_header ul li a:hover {
+	 color: #000;
+	 background: #7f7f7f;
+}
+
+.header_p ul li a {
+	 color: #000;
+	 letter-spacing: .1em;
+	 font-size: 14px;
+	 padding: 10px 10px;  
+}
+
+.header_p a:hover {
+   color: #000;
+	 background: #7f7f7f;	
+}	 
+/* Fim Header*/
+
+/* Introducao*/
+
+.introducao {
+   display: block;
+   height: 800px;
+   margin-left: 1px;
+   background: url("../img/hamburger.jpg") no-repeat center;
+}
+
+.meu_p {
+  font-size: 32px;
+  letter-spacing: .2em;
+  margin-left: 18px;
+  margin-top: 730px;
+}
+
+.bg_foto {
+	 margin-top: 10px;
+}
+
+
+/* Fim introducao */
+
+/* Bg foto1*/
+
+
+.p_about {
+color: #000;
+font-weight: bold;
+letter-spacing: .2em;
+font-size: 32px;
+text-align: center;
+margin-left:  590px;
+margin-top: 140px;
+font-family: georgia; 
+}
+
+.subtitulo {
+color: #000;
+letter-spacing: .04em;
+font-size: 26px;
+text-align: center;
+margin-left:  540px;
+margin-top: 60px;
+}
+
+.texto_p {
+color:#000;
+line-height: 20px;
+font-size: 18px;
+text-align: left;
+letter-spacing: .09em;
+margin-left:   600px;
+margin-top: 20px; 
+}
+
+.texto_p2 {
+color: #a8a4a4;
+line-height: 20px;
+font-size: 18px;
+text-align: left;
+letter-spacing: .09em;
+margin-left:   600px;
+margin-top: 20px; 
+}
+
+.bg_foto1 {
+	 
+	 text-align: center;
+	 margin-top: 80px;	  
+}
+
+.bg_foto1 img {
+ height: 630px;
+ margin-right: 390px;	 
+}
+
+/*Fim Bg foto1*/
+
+/*Our Menu*/
+
+.our_p{
+ margin-top: 300px;
+ font-size: 32px;
+ text-align: center;
+ margin-right: 380px;
+ letter-spacing: .18em;
+}
+
+.subtitulo_ourmenu{
+	font-family: brush;
+	font-size: 28px;
+	letter-spacing: .1em;
+	margin-top: 60px;
+	margin-left: 10px; 
+}
+
+.p_bread {
+	 font-size: 14px;
+	 text-align: left;
+	 margin-left: 10px;
+	 margin-top: 20px;
+	 color: #a8a4a4;
+}
+
+.subtitulo_honey {
+	font-family: brush;
+	font-size: 28px;
+	letter-spacing: .1em;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+.p_honey {
+  font-size: 14px;
+  text-align: left;
+  margin-left:10px;
+  margin-top: 20px;
+  color: #a8a4a4;
+}
+
+.subtitulo_belgian {
+	font-family: brush;
+	font-size: 28px;
+	letter-spacing: .1em;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+.p_belgian {
+	font-size: 14px;
+  text-align: left;
+  margin-left:10px;
+  margin-top: 20px;
+  color: #a8a4a4;
+}
+
+.subtitulo_scram {
+	font-family: brush;
+	font-size: 28px;
+	letter-spacing: .1em;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+.p_scram {
+	font-size: 14px;
+  text-align: left;
+  margin-left:10px;
+  margin-top: 20px;
+  color: #a8a4a4;
+}
+
+.subtitulo_blueb {
+	font-family: brush;
+	font-size: 28px;
+	letter-spacing: .1em;
+	margin-top: 60px;
+	margin-left: 10px
+}
+
+.p_blueb {
+	font-size: 14px;
+  text-align: left;
+  margin-left:10px;
+  margin-top: 20px;
+  color: #a8a4a4;
+}
+
+.our_menu img {
+	 margin-left: 600px;
+	 margin-top: 260px;
+	 padding-bottom: 100px;
+}
+ 
+
+/*Fim Our Menu*/
+
+
+/*Contato*/
+
+.contato h1 {
+	font-family: brush;
+	font-size: 32px;
+	letter-spacing: .1em;
+	margin-top: 120px;
+	margin-left: 10px;
+}
+
+.p_h1 { 
+  margin-top: 40px;
+  margin-left:10px;
+  line-height: 20px;
+	font-size: 14px;
+  text-align: left;
+  color: #000;
+}
+
+.subtitulo_contato {
+	font-family: brush;
+	font-size: 24px;
+	margin-top: 40px;
+	margin-left: 10px;
+	color: #607d99;
+}
+
+.p_subtitulo {
+  margin-top: 20px;
+  margin-left:10px;
+  line-height: 20px;
+	font-size: 14px;
+  text-align: left;
+  margin-bottom: 40px;
+  color: #000;
+}
+
+.form input {
+   border-bottom-width: 1px;
+   border-top-width: 0px;
+   border-left-width: 0px;
+   border-right-width: 0px;
+   border-bottom-color: #c8c8c8; 
+	 border-bottom-style: double;
+	 display: block;
+	 width: 1100px;
+	 margin-top: 10px;
+	 margin-left: 6px;
+	 padding: 10px;
+}
+
+.contato_btn {
+	 margin-top: 40px;
+	 margin-left: 6px;
+}
+
+.contato_btn a {
+	 color: #000;
+	 background: #e2e6eb;
+	 padding: 10px 10px;
+
+}
+
+.contato_btn a:hover {
+	 color: #000;
+	 background: #c8c8c8;	
+	 
+}
+
+/*Fim Contato*/
+
+.rodape {
+   width: 100%;
+   text-align: center;
+	 margin-top: 200px;
+	 background: #e2e6eb;
+	 padding: 30px;
+}
+
+.rodape p {
+   display: block;
+   width: 740px;
+	 margin-top: -18.5px;
+	 text-align: right;
+}
+
+.rodape a {
+
+	 padding: 0 auto;
+	 margin-left: 175px;
+}
+
+/*Fim Rodape*/
