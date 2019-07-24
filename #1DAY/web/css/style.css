@@ -1,0 +1,256 @@
+/* Estilos gerais*/
+body a {
+	 font-family: Arial, Helvetica, sans-serif;
+}
+/* Fim Dos Estilos Gerais*/
+
+
+/* Header*/
+.container {
+	 text-align: center;
+}
+
+.meu_p {
+	 color:#777;
+	 margin-top: 20px;
+	 padding: 10px;
+	 letter-spacing: .2em;
+}
+.meu_p:hover {
+	 color: #8fc1c1;
+}
+
+.header {
+	 width: 100%;
+	 height: 82px;
+	 background: #f8f8f8;
+	}
+
+.header_menu {
+	   text-align: right;
+	   color: green;
+	   margin-top: 20px;
+	   padding: 10px;
+     padding-left: 10px;
+  }
+
+.header_menu ul li {
+	  display: inline-block;
+	  margin-left: 20px;
+	}
+
+.header_menu ul li a { 
+    text-transform: uppercase;
+    color: #777;
+    letter-spacing: .2em;
+    font-size: 14px;
+    padding: 10px 0;
+  }
+
+
+.header_link ul li a{
+ 	  color: red;
+	  font-size: 17px;
+	  letter-spacing: .3em;
+}
+.header_menu ul li a:hover {
+	  color:#8fc1c1;
+}
+
+/* Fim Do Header*/
+
+
+
+/*Bg Meio*/
+.bg_meio {
+	  width: 100%;
+	  height: 690px;
+	  background:#1abc9c;
+}
+
+.bg_meio img{
+
+    margin-left: 10px;
+    padding-top: 50px;
+}
+
+.p_bg {
+	  text-align: center;
+	  margin-left: 20px;
+	  margin-top: 124px;
+	  color:#fff;
+	  font-size: 26px;
+}
+
+.p_bg2 {
+    text-align: center;
+    margin-left: 20px;
+	  margin-top: 60px;
+	  color:#fff;
+	  font-size: 26px;
+	}
+/* Fim Do Bg Meio*/
+
+
+
+/* Bg Fim*/
+
+	.bg_fim {
+	  width: 100%;
+	  height: 334px;
+	  background: #474e5d;
+	}
+
+	.h4_bgfim{
+	 margin-left: 20px;
+	 margin-top: 92px;
+	 color:#fff;
+   font-size: 26px;
+}
+
+.p_bgfim { 
+	 color:#fff;
+	 margin-top: 30px;
+	 font-size: 18px;
+	 text-align: center;
+	 line-height: 30px;
+}
+
+.btn  {
+	 background: #fff;
+	 padding:  14px 6px;
+	 border-color: #adadad;
+   line-height: 1.3333333;
+	 border-radius: 6px;
+	 color: #777;
+}
+
+ .btn_botao {
+  
+  float: all;	
+  position: relative;
+  margin-top: -85px;
+  text-align: center;
+  margin-left: 25px;
+}
+
+/* Fim Do Bg Fim*/
+
+
+
+/* Fotos Das Aguias*/
+
+.fotos {
+	 text-transform: uppercase;
+	 font-size: 25px;
+	 color: #5f5555;
+	 margin-top: 190px;
+}
+.subtitulo  {
+	 padding-top: 70px;
+	 font-size: 30px;
+}
+
+.fotos_birds  {
+	padding: 60px 0;
+}
+
+.birds_lista p {
+	 text-align: center;
+	 margin-top:60px;
+	 margin-bottom: 20px;
+}
+
+.birds_lista {
+	
+	margin-left: -900px;
+
+}
+
+.foto_1 {
+   display: block;
+   
+   float: all;
+	 margin-left: -40px;
+}
+
+.foto_2 {
+   display: block;
+   margin-left: 900px;
+   float: all;
+	 margin-top:-522px;
+}
+
+
+.foto_3 {
+  
+   display: block;
+   margin-left: 1622px;
+   float: all;
+	 margin-top:-523px;
+}
+
+.foto_3 p {
+  
+   width: 500px;
+   margin-left: -50px;
+
+}
+
+.foto_1 img {
+	 width: 450px;
+	 display: block;
+	 margin:0 auto;
+}
+
+.foto_2 img {
+	 width: 450px;
+	 display: block;
+	 margin: 0 auto;
+}
+
+.foto_3 img {
+	 width: 450px;
+	 display: block;
+	 margin: 0 auto;
+}
+
+/* Fim das Fotos Das Aguias*/
+
+
+
+/* Footer*/
+
+.footer {
+	width: 100%;
+  height: 200px;
+ 
+	background: #2f2f2f;
+	color: #fff;
+	padding:20px 0;
+}
+
+.footer h3 {
+  width: 193px;
+  margin-top: 60px;
+	margin-left: 511px;
+	
+}
+
+.p_final{
+  width: 0px;
+  margin-left: 706px;
+  margin-top: -18px;
+  background: #fff;
+
+	}
+
+.p_final a {
+	 color: #1e76b5;
+}
+		
+.p_final a:hover {
+		 color: #234e6d;
+}
+
+/* Fim Footer*/
